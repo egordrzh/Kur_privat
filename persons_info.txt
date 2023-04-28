@@ -1,0 +1,108 @@
+tag - person8 
+coord - [182, 361, 209, 396]
+sex - male
+emotion - Neutral
+age - 20
+------------------------------
+tag - person4 
+coord - [982, 475, 1008, 505]
+sex - male
+emotion - Happiness
+age - 25
+------------------------------
+tag - person13 
+coord - [980, 328, 1008, 361]
+sex - male
+emotion - Happiness
+age - 21
+------------------------------
+tag - person9 
+coord - [372, 462, 402, 499]
+sex - male
+emotion - Happiness
+age - 23
+------------------------------
+tag - person14 
+coord - [775, 473, 802, 509]
+sex - male
+emotion - Neutral
+age - 21
+------------------------------
+tag - person17 
+coord - [281, 321, 309, 354]
+sex - male
+emotion - Neutral
+age - 17
+------------------------------
+tag - person12 
+coord - [599, 445, 627, 482]
+sex - female
+emotion - Happiness
+age - 18
+------------------------------
+tag - person11 
+coord - [391, 318, 417, 349]
+sex - female
+emotion - Happiness
+age - 17
+------------------------------
+tag - person3 Ilya
+coord - [854, 469, 882, 502]
+sex - male
+emotion - Happiness
+age - 16
+------------------------------
+tag - person18 
+coord - [255, 469, 285, 502]
+sex - male
+emotion - Happiness
+age - 18
+------------------------------
+tag - person6 
+coord - [806, 313, 830, 342]
+sex - male
+emotion - Neutral
+age - 25
+------------------------------
+tag - person7 
+coord - [903, 483, 930, 515]
+sex - female
+emotion - Happiness
+age - 16
+------------------------------
+tag - person10 
+coord - [688, 300, 712, 332]
+sex - male
+emotion - Happiness
+age - 24
+------------------------------
+tag - person5 
+coord - [556, 478, 591, 519]
+sex - male
+emotion - Happiness
+age - 53
+------------------------------
+tag - person16 
+coord - [1133, 469, 1163, 502]
+sex - male
+emotion - Happiness
+age - 29
+------------------------------
+tag - person1 Egor
+coord - [650, 475, 682, 513]
+sex - male
+emotion - Neutral
+age - 24
+------------------------------
+tag - person19 
+coord - [749, 319, 772, 346]
+sex - male
+emotion - Happiness
+age - 15
+------------------------------
+tag - person15 
+coord - [1071, 323, 1096, 356]
+sex - male
+emotion - Happiness
+age - 19
+------------------------------
