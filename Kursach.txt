@@ -1,3 +1,23 @@
-person1: Egor
-person2: Irina
-person3: Ilya
+person1: Egor Druzhinin
+person2: Andrey Dedov
+person3: Ilya Aleksandrov
+person4: Katya Dozhdikova
+person5: Daniil Pirogov
+person6: Kirill Fomin
+person7: Irina Ochetova
+person8: Muxamadail Muminov 
+person9: Volodya Dzha
+person10: Ivan Kursanov
+person11: Denis Naumov
+person12: Nikita Ivanov
+person13: Milena Uspenskaya
+person14: Daniil Repin
+person15: Pavel Panteleev
+person16: Suleiman
+person17: Vasiliy Aleksandrov
+person18: Aleksandra Vishnyakova
+person19: Ilya Popov
+person20: Dmitriy Ivanov
+person21: Nikita Terentev
+person22: Marina Nikitina
+person23: Nikita Sergeev
